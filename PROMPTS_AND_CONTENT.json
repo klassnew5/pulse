@@ -1,0 +1,230 @@
+{
+  "seo": {
+    "title": "Фитнес-клуб Пульс: твой путь к здоровью и силе",
+    "description": "Фитнес-клуб Пульс приглашает тебя стать частью команды здоровых и энергичных людей! Запишись уже сегодня!"
+  },
+  "brand": {
+    "name": "Пульс",
+    "industry": "фитнес-клуб",
+    "slogan": "Твоё сердце бьётся быстрее!",
+    "colors": "красный, черный",
+    "logo_style": "минимализм"
+  },
+  "hero": {
+    "title": "Стань сильнее вместе с нами",
+    "subtitle": "Фитнес-клуб Пульс — место силы и энергии",
+    "description": "Открой для себя мир фитнеса и спорта рядом с домом. Удобное расположение, современное оборудование и профессиональные тренеры ждут именно тебя.",
+    "cta_text": "Записаться"
+  },
+  "sections": [
+    {
+      "id": "about",
+      "title": "Почему выбирают нас?",
+      "content": "Уютная атмосфера клуба, современное оснащение и опытные тренеры помогут тебе быстро достичь поставленных целей.",
+      "features": [
+        "Современное оборудование",
+        "Удобное расположение",
+        "Опытные тренеры"
+      ]
+    },
+    {
+      "id": "services",
+      "title": "Что мы предлагаем",
+      "items": [
+        {
+          "name": "Расписание тренировок",
+          "description": "Выбери удобное время тренировки среди множества вариантов."
+        },
+        {
+          "name": "Индивидуальные занятия",
+          "description": "Работай над собой под руководством опытного тренера."
+        },
+        {
+          "name": "Групповые тренировки",
+          "description": "Тренируйся в компании единомышленников и получай мотивацию от группы."
+        }
+      ]
+    },
+    {
+      "id": "process",
+      "title": "Как мы работаем",
+      "items": [
+        {
+          "step": "*1*",
+          "name": "Подбор программы",
+          "description": "Мы поможем подобрать индивидуальную программу тренировок специально для твоих целей."
+        },
+        {
+          "step": "*2*",
+          "name": "Первая тренировка",
+          "description": "Начни тренировки прямо с первой встречи с тренером."
+        },
+        {
+          "step": "*3*",
+          "name": "Регулярные занятия",
+          "description": "Продолжай регулярные тренировки для достижения максимального результата."
+        }
+      ]
+    },
+    {
+      "id": "team",
+      "title": "Наши тренеры",
+      "content": "Надежность и профессионализм наших тренеров позволяют достигать высоких результатов каждому гостю.",
+      "items": [
+        {
+          "name": "Елена Морозова",
+          "description": "Мастер спорта, тренер по кроссфиту"
+        },
+        {
+          "name": "Игорь Лебедев",
+          "description": "Тренер по силовым тренировкам"
+        }
+      ]
+    },
+    {
+      "id": "testimonials",
+      "title": "Отзывы гостей",
+      "items": [
+        {
+          "name": "Алексей Смирнов",
+          "text": "Очень доволен клубом! Отличные условия и профессиональный подход."
+        },
+        {
+          "name": "Екатерина Иванова",
+          "text": "Замечательное место для занятий спортом. Хорошие тренеры и дружелюбная атмосфера."
+        },
+        {
+          "name": "Сергей Кузнецов",
+          "text": "Клуб Пульс стал моим вторым домом. Благодарен команде за поддержку и заботу."
+        }
+      ]
+    },
+    {
+      "id": "pricing",
+      "title": "Стоимость абонементов",
+      "items": [
+        {
+          "name": "Месяц",
+          "price": "*2500 ₽*",
+          "description": "Безлимитное посещение + групповые занятия"
+        },
+        {
+          "name": "3 месяца",
+          "price": "*6500 ₽*",
+          "description": "Абонемент с персональным тренером"
+        },
+        {
+          "name": "Год",
+          "price": "*18000 ₽*",
+          "description": "Годовой абонемент + все услуги"
+        }
+      ]
+    },
+    {
+      "id": "faq",
+      "title": "Часто задаваемые вопросы",
+      "items": [
+        {
+          "question": "Какие виды тренировок предлагаются?",
+          "answer": "Предлагаются индивидуальные и групповые тренировки различных направлений."
+        },
+        {
+          "question": "Можно ли посещать клуб нерегулярно?",
+          "answer": "Да, ты можешь посещать клуб тогда, когда удобно лично тебе."
+        },
+        {
+          "question": "Есть ли возможность попробовать тренировку бесплатно?",
+          "answer": "Да, первый визит предоставляется бесплатно."
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "id": "hero",
+      "caption": "Твой путь начинается здесь",
+      "prompt": "modern gym interior with barbell, dumbbells, treadmill with speedometer, slavic people training arms and forearms, energetic atmosphere, bright, professional photo, 4k"
+    },
+    {
+      "id": "about",
+      "caption": "Комфорт и качество",
+      "prompt": "slavic athletes training with barbell, muscular arms, gym interior, motivational, bright, 4k"
+    },
+    {
+      "id": "services",
+      "caption": "Профессиональный подход",
+      "prompt": "barbell and dumbbells on gym floor, treadmill with speedometer display, modern fitness equipment, bright, professional photo, 4k"
+    },
+    {
+      "id": "process",
+      "caption": "Как мы работаем",
+      "prompt": "team of fit trainers, smiling, motivating, 4k"
+    },
+    {
+      "id": "team",
+      "caption": "Наши мастера",
+      "prompt": "happy slavic woman after workout, glowing skin, motivated, 4k"
+    }
+  ],
+  "privacy_policy": "Настоящая политика конфиденциальности описывает порядок сбора, обработки и защиты персональных данных пользователей фитнес-клуба Пульс. Персональные данные собираются исключительно для предоставления качественного сервиса и не передаются третьим лицам.",
+  "footer": {
+    "copyright": "© 2025 Пульс",
+    "contacts": {
+      "email": "info@Пульс.ru",
+      "phone": "+7 (999) 123-45-67"
+    }
+  },
+  "achievements": [
+    {
+      "number": "*6*",
+      "label": "лет"
+    },
+    {
+      "number": "*900*",
+      "label": "членов клуба"
+    },
+    {
+      "number": "*18*",
+      "label": "тренеров"
+    }
+  ],
+  "contacts": {
+    "address": "г. Москва",
+    "map_query": "Москва",
+    "working_hours": "9:00-21:00"
+  },
+  "calendly_link": "https://calendly.com/",
+  "downloaded_images": {
+    "hero": [
+      {
+        "path": "images/hero.png",
+        "photographer": "Kandinsky AI"
+      }
+    ],
+    "about": [
+      {
+        "path": "images/about.png",
+        "photographer": "Kandinsky AI"
+      }
+    ],
+    "services": [
+      {
+        "path": "images/services.png",
+        "photographer": "Kandinsky AI"
+      }
+    ],
+    "process": [
+      {
+        "path": "images/team.png",
+        "photographer": "Kandinsky AI"
+      }
+    ],
+    "team": [
+      {
+        "path": "images/result.png",
+        "photographer": "Kandinsky AI"
+      }
+    ]
+  },
+  "logo": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\">\n            <circle cx=\"100\" cy=\"100\" r=\"90\" fill=\"#e63946\" />\n            <text x=\"100\" y=\"120\" font-family=\"Arial\" font-size=\"80\" fill=\"white\" \n                  text-anchor=\"middle\" font-weight=\"bold\">P</text>\n        </svg>"
+}
